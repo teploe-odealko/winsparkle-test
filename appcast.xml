@@ -5,16 +5,16 @@
 <description>Most recent updates to Heado Analytics</description>
 <language>en</language>
 <item>
-<title>Version 1.0.1</title>
-<sparkle:releaseNotesLink> https://www.heado.ru/analytics/1.0.1/release_notes.html </sparkle:releaseNotesLink>
+<title>Version 2.0.1</title>
+<sparkle:releaseNotesLink> https://www.heado.ru/analytics/2.0.1/release_notes.html </sparkle:releaseNotesLink>
 <pubDate>Mon, 22 Aug 2022 12:00:00 +0300</pubDate>
-<enclosure url="https://update.heado.ru/analytics/1.0.1/heado.analytics-1.0.1-macos.zip" sparkle:edSignature="MEUCIGcaQxsL/DEY8/k9Lcy288HFvwJRYeW3REH+fnsRcLt3AiEAyLK6MPzuZgkP2syjtcQaGN8oikRsNGFHAIYRtRHCddU=" sparkle:version="1.0.1" sparkle:os="macos" length="13400992" type="application/octet-stream"/>
+<enclosure url="https://update.heado.ru/analytics/2.0.1/heado.analytics-2.0.1-macos.zip" sparkle:edSignature="MEUCIGcaQxsL/DEY8/k9Lcy288HFvwJRYeW3REH+fnsRcLt3AiEAyLK6MPzuZgkP2syjtcQaGN8oikRsNGFHAIYRtRHCddU=" sparkle:version="2.0.1" sparkle:os="macos" length="13400992" type="application/octet-stream"/>
 </item>
 <item>
-<title>Version 1.0.1</title>
-<sparkle:releaseNotesLink> https://www.heado.ru/analytics/1.0.1/release_notes.html </sparkle:releaseNotesLink>
+<title>Version 2.0.1</title>
+<sparkle:releaseNotesLink> https://www.heado.ru/analytics/2.0.1/release_notes.html </sparkle:releaseNotesLink>
 <pubDate>Mon, 22 Aug 2022 12:00:00 +0300</pubDate>
-<enclosure url="https://update.heado.ru/analytics/1.0.1/heado.analytics-1.0.1-windows.exe" sparkle:dsaSignature="MEUCIGcaQxsL/DEY8/k9Lcy288HFvwJRYeW3REH+fnsRcLt3AiEAyLK6MPzuZgkP2syjtcQaGN8oikRsNGFHAIYRtRHCddU=" sparkle:version="1.0.1" sparkle:os="windows" length="0" type="application/octet-stream"/>
+<enclosure url="https://update.heado.ru/analytics/2.0.1/heado.analytics-2.0.1-windows.exe" sparkle:dsaSignature="MEUCIGcaQxsL/DEY8/k9Lcy288HFvwJRYeW3REH+fnsRcLt3AiEAyLK6MPzuZgkP2syjtcQaGN8oikRsNGFHAIYRtRHCddU=" sparkle:version="2.0.1" sparkle:os="windows" length="0" type="application/octet-stream"/>
 </item>
 </channel>
 </rss>
