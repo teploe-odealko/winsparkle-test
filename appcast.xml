@@ -8,7 +8,7 @@
 <title>Version 0.2.0</title>
 <sparkle:releaseNotesLink> https://www.heado.ru/analytics/0.2.0/release_notes.html </sparkle:releaseNotesLink>
 <pubDate>2022-11-07 14:31:36.342581</pubDate>
-<enclosure url="https://github.com/teploe-odealko/winsparkle-test/releases/download/v0.2.0/manage.exe" sparkle:version="0.2.0" sparkle:os="windows" length="0" type="application/octet-stream"/>
+<enclosure sparkle:installerArguments="/SILENT"  url="https://github.com/teploe-odealko/winsparkle-test/releases/download/v0.2.0/manage.exe" sparkle:version="0.2.0" sparkle:os="windows" length="0" type="application/octet-stream"/>
 </item>
 </channel>
 </rss>
