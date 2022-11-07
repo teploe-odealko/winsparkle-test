@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel>
-<title>Heado Analytics Update</title>
-<description>Most recent updates to Heado Analytics</description>
+<title>Heado Midservice</title>
+<description>Most recent updates to Heado Midservice</description>
 <language>en</language>
 <item>
-<title>Version 2.0.1</title>
-<sparkle:releaseNotesLink> https://www.heado.ru/analytics/2.0.1/release_notes.html </sparkle:releaseNotesLink>
-<pubDate>Mon, 22 Aug 2022 12:00:00 +0300</pubDate>
-<enclosure url="https://github.com/teploe-odealko/winsparkle-test/releases/download/v2.0.1/manage.exe" sparkle:version="2.0.1" sparkle:os="windows" length="0" type="application/octet-stream"/>
+<title>Version 0.2.0</title>
+<sparkle:releaseNotesLink> https://www.heado.ru/analytics/0.2.0/release_notes.html </sparkle:releaseNotesLink>
+<pubDate>2022-11-07 14:31:36.342581</pubDate>
+<enclosure url="https://github.com/teploe-odealko/winsparkle-test/releases/download/v0.2.0/manage.exe" sparkle:version="0.2.0" sparkle:os="windows" length="0" type="application/octet-stream"/>
 </item>
 </channel>
 </rss>
